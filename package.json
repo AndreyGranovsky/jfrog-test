@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/marcusrc/jfrog-test#readme",
   "dependencies": {
-    "lint-staged": "^8.0.2"
+    "gc-profiler": "1.4.0"
   }
 }
