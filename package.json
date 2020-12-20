@@ -7,9 +7,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/marcusrc/jfrog-test/issues"
-  },
   "homepage": "https://github.com/marcusrc/jfrog-test#readme",
   "dependencies": {
     "gc-profiler": "1.4.0"
